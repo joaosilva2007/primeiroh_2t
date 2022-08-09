@@ -1,5 +1,5 @@
 body{
-  background:rgb(183, 5, 253);
+  background:rgb(0, 255, 128);
 }
 h1{
   text-align: center;
@@ -7,10 +7,10 @@ h1{
 .caixa1{
   position: absolute;
   width: 200px;
-  height:200px;
+  height:200px; 
   background: rgb(89, 2, 252);
   right: 0%;
-  top: 50%;
+  top: 40%;
 }
 .caixa2{
   position: absolute;
@@ -19,4 +19,12 @@ h1{
   background: rgb(78, 247, 0);
   bottom: 0%;
   right: 0%;
+}
+.menuPrincipal{
+  position: relative;
+  width: 100%;
+  height: 100px;
+  background: rgb(0, 255, 128);
+  
+
 }
