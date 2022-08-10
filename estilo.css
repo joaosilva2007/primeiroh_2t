@@ -21,10 +21,30 @@ h1{
   right: 0%;
 }
 .menuPrincipal{
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 100px;
-  background: rgb(0, 255, 128);
-  
-
+  height: 45px;
+  background: rgb(0, 0, 0);
+  }
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: 0;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  color:whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+   color:black;
+   background:rgb(0, 255, 128);
 }
