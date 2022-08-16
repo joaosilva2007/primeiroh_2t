@@ -48,3 +48,18 @@ li a:hover{
    color:black;
    background:rgb(0, 255, 128);
 }
+#baleia{
+  width: 10%;
+}
+.caixaBaleia{
+  position: absolute;
+  width: 100%;
+  background: rgb(0, 247, 247);
+  top: 50px;
+  left: 0;
+  border-color: rgb(0, 0, 0);
+  border-width: 10px;
+  border-style: solid;
+  margin: 20px;
+  padding: 10px;
+}
