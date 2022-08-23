@@ -37,8 +37,8 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-   color:rgb(14, 2, 80);
-   background:rgb(0, 2, 20);
+   color:rgb(7, 179, 179);
+   background:rgb(1, 0, 34);
 }
 #baleia{
   width: 10%;
